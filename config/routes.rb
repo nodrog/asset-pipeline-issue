@@ -1,6 +1,6 @@
 Aptest::Application.routes.draw do
   
-  create_bug = true
+  create_bug = false
   
   resources :assets if create_bug
 
