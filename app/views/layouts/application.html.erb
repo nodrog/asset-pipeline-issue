@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aptest</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+
+<%= image_tag image_path("rails.png") %>
+
+<span id="loaded">Javascript Not Loaded</span>
+
+<div><br>------------------<br></div>
+
+<%= yield %>
+
+</body>
+</html>

@@ -1,0 +1,1552 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-15 10:35:13 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (9.1ms)
+
+
+Started GET "/e" for 127.0.0.1 at 2011-11-15 10:35:17 +0000
+
+ActionController::RoutingError (No route matches [GET] "/e"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/ex" for 127.0.0.1 at 2011-11-15 10:35:17 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ex"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/ext" for 127.0.0.1 at 2011-11-15 10:35:18 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ext"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/externals" for 127.0.0.1 at 2011-11-15 10:35:18 +0000
+Served asset  - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/externals/" for 127.0.0.1 at 2011-11-15 10:35:21 +0000
+Served asset  - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/externals/balls" for 127.0.0.1 at 2011-11-15 10:35:22 +0000
+Compiled balls  (0ms)  (pid 38167)
+Served asset /balls - 200 OK (7ms)
+
+
+Started GET "/externals/balls." for 127.0.0.1 at 2011-11-15 10:35:23 +0000
+Served asset /balls. - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals/balls."):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/externals/balls.js" for 127.0.0.1 at 2011-11-15 10:35:23 +0000
+Served asset /balls.js - 200 OK (2ms)
+
+
+Started GET "/a" for 127.0.0.1 at 2011-11-15 10:35:29 +0000
+
+ActionController::RoutingError (No route matches [GET] "/a"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/asset" for 127.0.0.1 at 2011-11-15 10:35:30 +0000
+
+ActionController::RoutingError (No route matches [GET] "/asset"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 10:35:30 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/" for 127.0.0.1 at 2011-11-15 10:35:31 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/index" for 127.0.0.1 at 2011-11-15 10:35:32 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets/index"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 10:35:34 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 10:35:35 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 10:35:48 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.3ms)
+Compiled application.css  (1ms)  (pid 38167)
+Compiled assets.css  (58ms)  (pid 38167)
+Completed 500 Internal Server Error in 96ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>true, :digest=>false, :id=>#<Sprockets::BundledAsset:0x8205454c pathname="/Users/andy/projects/aptest/app/assets/stylesheets/application.css", mtime=2011-11-15 10:28:21 +0000, digest="db9e40ab62db6ecfb06e1320fce0cb3c">}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1576428612244814448_2181599240'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 10:36:24 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (8.8ms)
+Completed 500 Internal Server Error in 61ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>true, :digest=>false, :id=>#<Sprockets::BundledAsset:0x81231618 pathname="/Users/andy/projects/aptest/app/assets/stylesheets/application.css", mtime=2011-11-15 10:28:21 +0000, digest="db9e40ab62db6ecfb06e1320fce0cb3c">}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___4178154446598996923_2185408600'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 10:44:31 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=css" for 127.0.0.1 at 2011-11-15 10:44:31 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.4ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=js" for 127.0.0.1 at 2011-11-15 10:44:31 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (27.9ms)
+
+
+Started GET "/e" for 127.0.0.1 at 2011-11-15 10:44:36 +0000
+
+ActionController::RoutingError (No route matches [GET] "/e"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/ex" for 127.0.0.1 at 2011-11-15 10:44:36 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ex"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/ext" for 127.0.0.1 at 2011-11-15 10:44:36 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ext"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/externals/" for 127.0.0.1 at 2011-11-15 10:44:37 +0000
+Served asset  - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/externals/balls" for 127.0.0.1 at 2011-11-15 10:45:28 +0000
+Served asset /balls - 304 Not Modified (1ms)
+
+
+Started GET "/externals/balls." for 127.0.0.1 at 2011-11-15 10:45:28 +0000
+Served asset /balls. - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals/balls."):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/externals/balls.js" for 127.0.0.1 at 2011-11-15 10:45:29 +0000
+Served asset /balls.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:04:30 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (8.8ms)
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Completed 200 OK in 40ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:04:32 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.0ms)
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:04:33 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+
+***** Debugger requested, but was not available (ensure ruby-debug is listed in Gemfile/installed as gem): Start server with --debugger to enable *****
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:06:35 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (15.1ms)
+Completed 200 OK in 38999ms (Views: 38998.1ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:09:06 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (49.8ms)
+Completed 200 OK in 89ms (Views: 88.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:09:07 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=css" for 127.0.0.1 at 2011-11-15 11:09:07 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=js" for 127.0.0.1 at 2011-11-15 11:09:07 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:09:13 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=css" for 127.0.0.1 at 2011-11-15 11:09:13 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=js" for 127.0.0.1 at 2011-11-15 11:09:14 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/e" for 127.0.0.1 at 2011-11-15 11:12:18 +0000
+
+ActionController::RoutingError (No route matches [GET] "/e"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/ex" for 127.0.0.1 at 2011-11-15 11:12:18 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ex"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/externals" for 127.0.0.1 at 2011-11-15 11:12:19 +0000
+Served asset  - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/externals/" for 127.0.0.1 at 2011-11-15 11:12:20 +0000
+Served asset  - 404 Not Found (4ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/externals/app" for 127.0.0.1 at 2011-11-15 11:12:21 +0000
+Served asset /app - 404 Not Found (4ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals/app"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/externals/application." for 127.0.0.1 at 2011-11-15 11:12:23 +0000
+Served asset /application. - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals/application."):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/externals/application.jus" for 127.0.0.1 at 2011-11-15 11:12:23 +0000
+Served asset /application.jus - 404 Not Found (50ms)
+
+ActionController::RoutingError (No route matches [GET] "/externals/application.jus"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:12:24 +0000
+Compiled application.js  (7ms)  (pid 39463)
+Compiled jquery.js  (3ms)  (pid 39463)
+Compiled jquery_ujs.js  (0ms)  (pid 39463)
+Compiled assets.js  (131ms)  (pid 39463)
+Served asset /application.js - 200 OK (3422ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:12:33 +0000
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/a" for 127.0.0.1 at 2011-11-15 11:12:37 +0000
+
+ActionController::RoutingError (No route matches [GET] "/a"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/ass" for 127.0.0.1 at 2011-11-15 11:12:38 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ass"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:12:38 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 56ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=css" for 127.0.0.1 at 2011-11-15 11:12:38 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=js" for 127.0.0.1 at 2011-11-15 11:12:38 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:14:07 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 31ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1084458802124669743_2176267160'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:14:19 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:14:21 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:14:47 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/b" for 127.0.0.1 at 2011-11-15 11:15:27 +0000
+
+ActionController::RoutingError (No route matches [GET] "/b"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:15:27 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2176267160'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:15:44 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:04 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2176267160'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:19 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:20 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:21 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:21 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 6ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:21 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:21 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:22 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:22 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:22 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2172755400'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:30 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:41 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2176592580'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:16:47 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 54ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2176592580'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/bob" for 127.0.0.1 at 2011-11-15 11:17:10 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__1084458802124669743_2198276420'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-15 11:21:25 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (11.0ms)
+
+
+Started GET "/a" for 127.0.0.1 at 2011-11-15 11:21:28 +0000
+
+ActionController::RoutingError (No route matches [GET] "/a"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/ass" for 127.0.0.1 at 2011-11-15 11:21:29 +0000
+
+ActionController::RoutingError (No route matches [GET] "/ass"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/asst" for 127.0.0.1 at 2011-11-15 11:21:29 +0000
+
+ActionController::RoutingError (No route matches [GET] "/asst"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:21:30 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 29ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163085960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:06 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 94ms
+
+ActionView::Template::Error (undefined method `external_path' for #<#<Class:0x00000102c09880>:0x00000102bef3b8>):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag external_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2170577220'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (5.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:16 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:17 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:18 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:18 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:18 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:18 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:19 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:19 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:19 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    8: </head>
+    9: <body>
+    10: 
+    11: <%= image_tag image_path("rails.png") %>
+    12: 
+    13: <%= yield %>
+    14: 
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1570344553938683909_2163622960'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:22:30 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 9ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=css" for 127.0.0.1 at 2011-11-15 11:22:30 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets/application?body=false&digest=false&ext=js" for 127.0.0.1 at 2011-11-15 11:22:30 +0000
+
+AbstractController::ActionNotFound (The action 'show' could not be found for AssetsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:23:13 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:33:21 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:33:22 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:33:22 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:33:22 +0000
+  Processing by AssetsController#index as HTML
+Rendered assets/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:34:17 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:35:33 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (12.9ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:35:33 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:35:33 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:35:34 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/0" for 127.0.0.1 at 2011-11-15 11:35:36 +0000
+
+ActionController::RoutingError (No route matches [GET] "/0"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-15 11:35:36 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets/rails.png"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/pro" for 127.0.0.1 at 2011-11-15 11:35:37 +0000
+
+ActionController::RoutingError (No route matches [GET] "/pro"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/prod" for 127.0.0.1 at 2011-11-15 11:35:38 +0000
+
+ActionController::RoutingError (No route matches [GET] "/prod"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/produc" for 127.0.0.1 at 2011-11-15 11:35:38 +0000
+
+ActionController::RoutingError (No route matches [GET] "/produc"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:35:39 +0000
+
+AbstractController::ActionNotFound (The action 'index' could not be found for ProductsController):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:36:07 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 11686ms (Views: 11685.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:36:19 +0000
+Compiled application.css  (2ms)  (pid 41166)
+Compiled products.css  (14ms)  (pid 41166)
+Served asset /application.css - 200 OK (38ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:36:19 +0000
+Compiled application.js  (10ms)  (pid 41166)
+Compiled general.js  (0ms)  (pid 41166)
+Compiled products.js  (82ms)  (pid 41166)
+Served asset /application.js - 200 OK (3496ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:40:42 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7502ms (Views: 7501.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:40:50 +0000
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:40:50 +0000
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:40:50 +0000
+Served asset /rails.png - 200 OK (6ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:41:33 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 6351ms (Views: 6349.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:41:40 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2054ms (Views: 2053.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:41:42 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1417ms (Views: 1417.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:41:44 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1074ms (Views: 1073.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:41:45 +0000
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:41:45 +0000
+Served asset /application.js - 304 Not Modified (12ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:41:45 +0000
+Served asset /rails.png - 304 Not Modified (3ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:32 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 10429ms (Views: 10429.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:44 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1598ms (Views: 1597.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:46 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1162ms (Views: 1162.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:47 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1232ms (Views: 1232.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:48 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1074ms (Views: 1073.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:49 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1105ms (Views: 1104.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:42:50 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1130ms (Views: 1129.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:42:52 +0000
+Served asset /application.css - 304 Not Modified (11ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:42:52 +0000
+Served asset /application.js - 304 Not Modified (13ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:42:52 +0000
+Served asset /rails.png - 304 Not Modified (2ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:43:29 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:43:30 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:43:30 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 50ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:43:30 +0000
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:43:30 +0000
+Served asset /application.js - 304 Not Modified (14ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:43:32 +0000
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:46:03 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:46:03 +0000
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:46:03 +0000
+Compiled general.js  (0ms)  (pid 41663)
+Compiled application.js  (7ms)  (pid 41663)
+Served asset /application.js - 200 OK (3489ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:46:07 +0000
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:46:44 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:46:44 +0000
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:46:44 +0000
+Compiled general.js  (0ms)  (pid 41663)
+Compiled application.js  (9ms)  (pid 41663)
+Served asset /application.js - 200 OK (3314ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:46:48 +0000
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/a" for 127.0.0.1 at 2011-11-15 11:46:52 +0000
+
+ActionController::RoutingError (No route matches [GET] "/a"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/as" for 127.0.0.1 at 2011-11-15 11:46:52 +0000
+
+ActionController::RoutingError (No route matches [GET] "/as"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/assets" for 127.0.0.1 at 2011-11-15 11:46:52 +0000
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/p" for 127.0.0.1 at 2011-11-15 11:46:57 +0000
+
+ActionController::RoutingError (No route matches [GET] "/p"):
+  
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:46:58 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:46:58 +0000
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:46:58 +0000
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:46:58 +0000
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:47:02 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 11:47:02 +0000
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 11:47:02 +0000
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 11:47:02 +0000
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:47:09 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 85ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___706156687736610278_2168103360'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:47:10 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___706156687736610278_2168103360'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:47:11 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___706156687736610278_2168103360'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:47:12 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___706156687736610278_2168103360'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 11:47:12 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___706156687736610278_2168103360'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 12:18:20 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :ext=>"css", :body=>false, :digest=>false, :id=>"application"}):
+    2: <html>
+    3: <head>
+    4:   <title>Aptest</title>
+    5:   <%= stylesheet_link_tag    "application" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___706156687736610278_2168103360'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 12:18:44 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 83ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/externals/application.css" for 127.0.0.1 at 2011-11-15 12:18:45 +0000
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/externals/application.js" for 127.0.0.1 at 2011-11-15 12:18:45 +0000
+Served asset /application.js - 304 Not Modified (11ms)
+
+
+Started GET "/externals/rails.png" for 127.0.0.1 at 2011-11-15 12:18:45 +0000
+Served asset /rails.png - 304 Not Modified (14ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 12:19:47 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (11.5ms)
+Completed 500 Internal Server Error in 75ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb___1259655475404942754_2159725740'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+DEPRECATION WARNING: require_library_or_gem is deprecated and will be removed from Rails 3.2. (called from require at script/rails:6)
+
+
+Started GET "/products" for 127.0.0.1 at 2011-11-15 12:21:12 +0000
+  Processing by ProductsController#index as HTML
+Rendered products/index.html.erb within layouts/application (10.4ms)
+Completed 500 Internal Server Error in 109ms
+
+ActionView::Template::Error (No route matches {:action=>"show", :controller=>"assets", :id=>"rails.png"}):
+    9: <body>
+    10: 
+    11: 
+    12: <%= image_tag image_path("rails.png") %>
+    13: 
+    14: <span id="loaded">Javascript Not Loaded</span>
+    15: 
+  app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb__3981236369792118695_2156731700'
+
+Rendered /Users/andy/.rvm/gems/ruby-1.9.2-p290@aptest/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
